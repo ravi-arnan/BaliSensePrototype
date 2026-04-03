@@ -1,0 +1,5 @@
+{
+  "name": "BaliSense — Smart Crowd Intelligence",
+  "description": "Real-time tourism crowd monitoring dashboard for Bali, Indonesia, featuring live density maps and predictions.",
+  "requestFramePermissions": ["geolocation"]
+}
